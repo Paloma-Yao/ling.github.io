@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "Paloma-Yao/LING.github.io",
+    "data-repo": "Paloma-Yao/paloma-yao.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
